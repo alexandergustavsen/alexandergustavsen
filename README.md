@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @alexandergustavsen
+- 👀 I’m currently working for Wolve IT as a Frontend developer
+- 🌱 Right now I'm improving my app development skills in Flutter, as well as Vue skills for web
+- 📫 You can reach me @linkedin
