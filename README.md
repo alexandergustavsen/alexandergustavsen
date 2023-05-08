@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexandergustavsen
-- 👀 I’m currently working for Wolve IT as a Frontend developer
-- 🌱 Right now I'm improving my app development skills in Flutter, as well as Vue skills for web
+- 👀 I’m currently working for Newcycle as a mobile developer
+- 🌱 Right now I'm improving my app development skills in React Native
 - 📫 You can reach me at alxandergustavsen@gmail.com
