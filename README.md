@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @alexandergustavsen
-- 👀 I’m currently working for Newcycle as a mobile developer
+- 👀 I’m currently working for Tings as a mobile developer
 - 🌱 Right now I'm improving my app development skills in React Native
 - 📫 You can reach me at alxandergustavsen@gmail.com
