@@ -1,4 +1,4 @@
-**Hi there!** <img src="https://github.com/alexandergustavsen/alexandergustavsen/assets/31104941/a5af957d-2bcb-43d3-8122-2ba0d0573050" height="26"  width="26" style="margin-top: 20px;" alt="Greeting">
+**Hi there! 👋**
 
 I'm Alexander, a mobile developer based in Norway.
 
