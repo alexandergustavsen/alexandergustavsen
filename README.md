@@ -11,4 +11,4 @@ I'm [Alexander](https://www.linkedin.com/in/alexander-gustavsen-019517158/), a m
 - Backend & APIs: `Express.js` `Firebase` `Supabase`
 - Version Control: `Git` `GitHub` `Sourcetree`
 - Testing & Debugging: `Sentry` `Maestro` `Mixpanel` `Postman`
-- Other: `Storybook` `Linear` `Unistyles` `TanStack Query`
+- Other: `Storybook` `Linear` `Unistyles` `TanStack Query` `Prisma`
